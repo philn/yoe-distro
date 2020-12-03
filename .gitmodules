@@ -74,3 +74,6 @@
 	path = sources/meta-elm-binary
 	url = git://github.com/yoedistro/meta-elm-binary
 	branch = master
+[submodule "sources/meta-sunxi"]
+	path = sources/meta-sunxi
+	url = git@github.com:linux-sunxi/meta-sunxi.git
